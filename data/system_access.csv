@@ -1,0 +1,6 @@
+employee_id,system_name,account_enabled,access_level
+E001,Azure,True,Standard
+E002,Azure,True,Admin
+E003,Microsoft365,True,Standard
+E004,Microsoft365,False,Standard
+E005,Azure,True,Admin

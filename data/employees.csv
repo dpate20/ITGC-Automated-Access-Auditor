@@ -1,0 +1,6 @@
+employee_id,employee_name,department,employment_status
+E001,Alice Johnson,Finance,Active
+E002,Bob Smith,IT,Terminated
+E003,Carol Davis,HR,Active
+E004,David Wilson,Finance,Terminated
+E005,Emma Brown,IT,Active
